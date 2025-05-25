@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 I'm a passionate software developer specializing in building robust and scalable applications. My expertise lies in Java, Spring Boot, and creating elegant solutions using modern web technologies.
 
--     Graduate Engineer Intern at Tata Electronics
 - 🎓 Secured **Rank 3** in DataQuest at Vellore Institute of Technology
+- 🏆 **Graduate Engineer Intern at Tata Electronics**
 - 💡 Always eager to learn new technologies and tackle challenging problems
 
 ## 🛠️ Skills
